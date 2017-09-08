@@ -13,8 +13,6 @@ app.get("/arcticle-one",function(req,res){
     res.sendFile(path.join(__dirname, 'ui', 'arcticle-one.html'));
 });
 
-
-
 app.get("/arcticle-three",function(req,res){
     res.sendFile(path.join(__dirname, 'ui', 'arcticle-three.html'));
 });
