@@ -21,6 +21,13 @@ body {
 }
 
 body {
-    font-family: italic;
-    background-color: blue;
+    font-family: serif;
+    background-color: #454561;
     margin-top: 110px;
+}
+
+style.css:1
+body {
+    font-family: bold italic;
+    background-color: #ff2e2e;
+    margin-top: 800px;
